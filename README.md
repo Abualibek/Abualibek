@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abualibek
+- 👋 Hi, I’m @Aziz
 - 👀 I’m interested in Front-end web developement
 - 🌱 I’m currently learning React/Redux + Laravel
 - 💞️ I’m looking to collaborate on LinkedIn: https://www.linkedin.com/in/abdulaziz-kholmatov-592a38188/
